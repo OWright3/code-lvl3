@@ -27,10 +27,27 @@ fn qf(a:f64,b:f64,c:f64) -> () {
         println!("No real roots");
     }
     else {
-        let _x1 = (-b+disc.sqrt()) / (2_f64*a);
-        let _x2 = (-b-disc.sqrt()) / (2_f64*a);
-    
+        let s_x1 = (-b+disc.sqrt()) / (2_f64*a);
+        let s_x2 = (-b-disc.sqrt()) / (2_f64*a);
+        let b_x1 = -(s_x1);
+        let b_x2 = -(s_x2);
 
-        println!("X is {0} and {1}", _x1, _x2);
+
+        if b_x1 > 0.0 {
+            let sign1 = "+";
+        }
+        else {
+            let sign1 = "";
+        }
+        if b_x2 > 0.0 {
+            let sign2 = "+";
+        }
+        else {
+            let sign2 = "";
+        }
+
+        println!("X is {0} and {1}", s_x1, s_x2);
+
+        println!("(x {0} {1})(x {2} {3})", sign1, b_x1, sign2, b_x2)
     }
 }
