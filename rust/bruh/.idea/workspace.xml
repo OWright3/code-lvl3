@@ -13,7 +13,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c1d24e1-0daa-417e-a705-313960726005" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,33 +22,56 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="BHOTVkHj" />
   </component>
   <component name="ProjectId" id="1TaGd6UFEgAQKuMOAt5qX09kn76" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager">
+    <configuration name="Run bruh" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package bruh --bin bruh" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Cargo Command.Run bruh" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573690876764</updated>
       <workItem from="1573690879574" duration="602000" />
+      <workItem from="1576088261778" duration="5201000" />
     </task>
     <servers />
   </component>
@@ -73,10 +96,38 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="215" width="800" height="675" key="#Notifications" timestamp="1576098739499">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="579" y="215" width="800" height="675" key="#Notifications/48.28.1872.1052/1920.0.1920.1080@48.28.1872.1052" timestamp="1576098739499" />
+    <state width="1822" height="276" key="GridCell.Tab.0.bottom" timestamp="1576103056821">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state width="1822" height="276" key="GridCell.Tab.0.bottom/48.28.1872.1052/1920.0.1920.1080@48.28.1872.1052" timestamp="1576103056821" />
+    <state width="1822" height="276" key="GridCell.Tab.0.center" timestamp="1576103056821">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state width="1822" height="276" key="GridCell.Tab.0.center/48.28.1872.1052/1920.0.1920.1080@48.28.1872.1052" timestamp="1576103056821" />
+    <state width="1822" height="276" key="GridCell.Tab.0.left" timestamp="1576103056821">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state width="1822" height="276" key="GridCell.Tab.0.left/48.28.1872.1052/1920.0.1920.1080@48.28.1872.1052" timestamp="1576103056821" />
+    <state width="1822" height="276" key="GridCell.Tab.0.right" timestamp="1576103056821">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state width="1822" height="276" key="GridCell.Tab.0.right/48.28.1872.1052/1920.0.1920.1080@48.28.1872.1052" timestamp="1576103056821" />
+    <state x="465" y="189" key="SettingsEditor" timestamp="1576088311544">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="465" y="189" key="SettingsEditor/48.28.1872.1052/1920.0.1920.1080@48.28.1872.1052" timestamp="1576088311544" />
   </component>
 </project>
