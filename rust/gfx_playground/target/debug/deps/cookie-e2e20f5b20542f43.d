@@ -1,0 +1,12 @@
+C:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\debug\deps\cookie-e2e20f5b20542f43.rmeta: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\builder.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\parse.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\jar.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\delta.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\draft.rs
+
+C:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\debug\deps\libcookie-e2e20f5b20542f43.rlib: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\builder.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\parse.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\jar.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\delta.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\draft.rs
+
+C:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\debug\deps\cookie-e2e20f5b20542f43.d: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\builder.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\parse.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\jar.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\delta.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\draft.rs
+
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\lib.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\builder.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\parse.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\jar.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\delta.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\draft.rs:

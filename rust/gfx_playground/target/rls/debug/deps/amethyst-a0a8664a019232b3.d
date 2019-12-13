@@ -1,0 +1,12 @@
+c:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\rls\debug\deps\amethyst-a0a8664a019232b3.rmeta: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\prelude.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\app.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\callback_queue.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\game_data.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\logger.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\state.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\state_event.rs
+
+c:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\rls\debug\deps\amethyst-a0a8664a019232b3.d: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\prelude.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\app.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\callback_queue.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\game_data.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\logger.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\state.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\state_event.rs
+
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\lib.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\prelude.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\app.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\callback_queue.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\game_data.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\logger.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\state.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\amethyst-0.13.2\src\state_event.rs:

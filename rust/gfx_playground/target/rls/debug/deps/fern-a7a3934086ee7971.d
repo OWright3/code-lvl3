@@ -1,0 +1,10 @@
+c:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\rls\debug\deps\fern-a7a3934086ee7971.rmeta: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\builders.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\errors.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\log_impl.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\colors.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\meta.rs
+
+c:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\rls\debug\deps\fern-a7a3934086ee7971.d: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\builders.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\errors.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\log_impl.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\colors.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\meta.rs
+
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\lib.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\builders.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\errors.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\log_impl.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\colors.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\fern-0.5.9\src\meta.rs:

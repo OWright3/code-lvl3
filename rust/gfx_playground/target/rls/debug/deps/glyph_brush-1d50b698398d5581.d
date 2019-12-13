@@ -1,0 +1,10 @@
+c:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\rls\debug\deps\glyph_brush-1d50b698398d5581.rmeta: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_brush.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_brush\builder.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_calculator.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\owned_section.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\section.rs
+
+c:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\rls\debug\deps\glyph_brush-1d50b698398d5581.d: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_brush.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_brush\builder.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_calculator.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\owned_section.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\section.rs
+
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\lib.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_brush.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_brush\builder.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\glyph_calculator.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\owned_section.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.6.1\src\section.rs:

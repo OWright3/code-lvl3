@@ -1,0 +1,1 @@
+{"rustc":1804042568765690419,"features":"[]","target":15283537185308257423,"profile":9935990280773120926,"path":17911086214421517034,"deps":[[2693066915275761720,"winapi",false,2253552572527407571]],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\clipboard-win-c6cb2bed2b1cdd53\\dep-lib-clipboard_win-c6cb2bed2b1cdd53"}}],"rustflags":[],"metadata":16665659124064307119}

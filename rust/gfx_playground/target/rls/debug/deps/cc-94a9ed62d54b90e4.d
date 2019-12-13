@@ -1,0 +1,12 @@
+c:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\rls\debug\deps\cc-94a9ed62d54b90e4.rmeta: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\registry.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\winapi.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\com.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\setup_config.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\windows_registry.rs
+
+c:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\rls\debug\deps\libcc-94a9ed62d54b90e4.rlib: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\registry.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\winapi.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\com.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\setup_config.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\windows_registry.rs
+
+c:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\rls\debug\deps\cc-94a9ed62d54b90e4.d: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\registry.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\winapi.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\com.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\setup_config.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\windows_registry.rs
+
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\lib.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\registry.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\winapi.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\com.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\setup_config.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.48\src\windows_registry.rs:

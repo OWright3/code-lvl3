@@ -1,0 +1,11 @@
+C:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\debug\deps\clipboard_win-7bd6232b6f4c2913.rmeta: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src/lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\utils.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\formats.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\raw.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\image.rs
+
+C:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\debug\deps\libclipboard_win-7bd6232b6f4c2913.rlib: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src/lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\utils.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\formats.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\raw.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\image.rs
+
+C:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\debug\deps\clipboard_win-7bd6232b6f4c2913.d: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src/lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\utils.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\formats.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\raw.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\image.rs
+
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src/lib.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\utils.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\formats.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\raw.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\image.rs:

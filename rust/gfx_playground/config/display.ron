@@ -1,0 +1,4 @@
+(
+  title: "gfx_playground",
+  dimensions: Some((1280, 720)),
+)

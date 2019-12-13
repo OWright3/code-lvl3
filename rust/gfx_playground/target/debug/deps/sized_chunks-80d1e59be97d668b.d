@@ -1,0 +1,11 @@
+C:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\debug\deps\sized_chunks-80d1e59be97d668b.rmeta: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\bitmap.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\sized_chunk.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\sparse_chunk.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\types.rs
+
+C:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\debug\deps\libsized_chunks-80d1e59be97d668b.rlib: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\bitmap.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\sized_chunk.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\sparse_chunk.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\types.rs
+
+C:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\debug\deps\sized_chunks-80d1e59be97d668b.d: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\bitmap.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\sized_chunk.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\sparse_chunk.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\types.rs
+
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\lib.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\bitmap.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\sized_chunk.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\sparse_chunk.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\sized-chunks-0.1.3\src\types.rs:

@@ -1,0 +1,12 @@
+c:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\rls\debug\deps\colorful-afec4f04ff6fcb12.rmeta: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\mod.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\colors.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\symbols.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\style.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\color_string.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\rgb.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\hsl.rs
+
+c:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\rls\debug\deps\colorful-afec4f04ff6fcb12.d: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\mod.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\colors.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\symbols.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\style.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\color_string.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\rgb.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\hsl.rs
+
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\lib.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\mod.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\colors.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\symbols.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\style.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\color_string.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\rgb.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\colorful-0.2.1\src\core\hsl.rs:

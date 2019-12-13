@@ -1,0 +1,11 @@
+C:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\debug\deps\tiff-168bdd12fd3b79d0.rmeta: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\decoder\mod.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\decoder\ifd.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\decoder\stream.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\error.rs
+
+C:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\debug\deps\libtiff-168bdd12fd3b79d0.rlib: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\decoder\mod.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\decoder\ifd.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\decoder\stream.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\error.rs
+
+C:\Users\Ollie\Documents\code-lvl3\rust\gfx_playground\target\debug\deps\tiff-168bdd12fd3b79d0.d: C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\lib.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\decoder\mod.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\decoder\ifd.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\decoder\stream.rs C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\error.rs
+
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\lib.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\decoder\mod.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\decoder\ifd.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\decoder\stream.rs:
+C:\Users\Ollie\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.2.2\src\error.rs:
