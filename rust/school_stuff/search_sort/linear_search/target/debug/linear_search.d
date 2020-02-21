@@ -1,0 +1,1 @@
+c:\Users\Ollie\Documents\code-lvl3\rust\school_stuff\search_sort\linear_search\target\debug\linear_search.exe: c:\Users\Ollie\Documents\code-lvl3\rust\school_stuff\search_sort\linear_search\src\main.rs
