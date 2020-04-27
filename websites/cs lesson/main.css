@@ -1,3 +1,28 @@
+body {
+    margin: 0;
+}
+
+.bgimg {
+    background-image: url("res/bg.jpg");
+    height: 100vh;
+    opacity: 0.6;
+    display: inline;
+}
+
 .header {
-    background-image: url(res\bg.jpg);
+    background-color: black;
+    min-width: 100vh;
+    min-height: 100vh;
+}
+
+.header-content {
+    text-align: center;
+    margin: auto;
+    display: block;
+    width: 30%;
+}
+
+.header h1, h2 {
+    margin: 0;
+    color: White;
 }
